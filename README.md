@@ -1,4 +1,4 @@
-##MAVEN
+## MAVEN
 * 项目信息
 > _parent_ _name_ _url_ _groupId_ _artifactId_ _packaging_ _version_ ...
 ```
@@ -50,9 +50,9 @@ dependencies
 > 本地maven仓库 [http://132.42.43.156:8081/nexus/#welcome](http://132.42.43.156:8081/nexus/#welcome)<br>
 
 
-##GIT
+## GIT
 
-##开发工具
+## 开发工具
 1. 基础环境
 * git
 * maven
@@ -67,7 +67,7 @@ dependencies
 * Mysql
 >>Navicat
 
-##ZEAL开发框架体系
+## ZEAL开发框架体系
 * ZEAL-MSF
 基于SpringMVC Mybatis微服务框架
 * ZEAL-UI
@@ -79,7 +79,7 @@ dependencies
 * ZEAL-WEB
 基于React技术栈前后端分离的现代WEB工程框架
 
-##ZEAL-MSF
+## ZEAL-MSF
 ```
 msframework
 ├── msf -datasource //数据源处理包
@@ -108,7 +108,7 @@ msframework
 |    ├── freemark
 |    ├── jinja
 ```
-##JAVADOC
+## JAVADOC
 [easy-zeal](http://132.42.43.149:8686/docs/easy-zeal/)<br>
 * doc注释写法
 ```
@@ -126,7 +126,7 @@ public static String stringConnect(String[] strings, String spilit_sign) {}
 mvn javadoc:javadoc
 ```
 
-##业务服务
+## 业务服务
 ### 为什么ZEAL-MSF框架建议采用多模块的maven项目？
 
 我们倡导的概念就是“低耦合，高内聚”，将项目划分多模块，可以极大的提高代码重用性。
@@ -188,7 +188,7 @@ jdbc.password=Abcd1234
 
 ### 各模块的依赖关系
 
-##EDAS-HSF
+## EDAS-HSF
 ```
 开发环境
 10.124.128.201  jmenv.tbsite.net
@@ -218,7 +218,7 @@ hsf-consumer-beans.xml
 ```
 
 
-##数据分页Mybatis-PageHelper
+## 数据分页Mybatis-PageHelper
 mybatis-config.xml
 
 1. PageHelper.startPage(page,10);
@@ -228,7 +228,7 @@ List<Product> selectAll(@Param("pageNum") int pageNum,
                         @Param("pageSize") int pageSize);
 ```
 
-##开发部署
+## 开发部署
 ```
 deployer/De@2016er
 SSH端口8022
