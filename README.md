@@ -169,7 +169,7 @@ user
 ├── user-dao -- 存放mybatis相关的mapper接口
 |    ├── src
 |    ├── pom.xml -- 打包方式：jar
-├── user-pojo -- 存放实体类
+├── user-medel -- 存放实体类
 |    ├── src
 |    ├── pom.xml -- 打包方式：jar
 ├── user-service -- 存放业务逻辑类
