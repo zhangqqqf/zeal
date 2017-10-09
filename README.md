@@ -84,7 +84,7 @@ https://git.coding.net/zh_xin/User.git
 * __ZEAL-WEB__
 基于React技术栈前后端分离的现代WEB工程框架
 
-![ZEAL-FRAMEWORK](img/ZEAL-FRAMEWORK.png)
+![ZEAL-FRAMEWORK](http://oxjso5gri.bkt.clouddn.com/ZEAL-FRAMEWORK.png)
 
 ## ZEAL-MSF
 ```
@@ -115,7 +115,7 @@ msframework
 |    ├── freemark
 |    ├── jinja
 ```
-![ZEAL-FRAMEWORK](img/ZEAL-MSF.png)
+![ZEAL-FRAMEWORK](http://oxjso5gri.bkt.clouddn.com/ZEAL-MSF.png)
 
 ## JAVADOC
 [easy-zeal](http://132.42.43.149:8686/docs/easy-zeal/)<br>
@@ -196,7 +196,7 @@ jdbc.password=*****
 ```
 
 ### 各模块的依赖关系
-![ZEAL-FRAMEWORK](img/PROJECT.png)
+![ZEAL-FRAMEWORK](http://oxjso5gri.bkt.clouddn.com/PROJECT.png
 
 ## EDAS-HSF
 ```
