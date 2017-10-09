@@ -227,7 +227,7 @@ hsf-consumer-beans.xml
 [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper)
 mybatis-config.xml
 
-1. PageHelper.startPage(page,10);
+1. PageHelper.startPage(pageNum,pageSize);
 2. 参数方式
 ```
 List<Product> selectAll(@Param("pageNum") int pageNum,
