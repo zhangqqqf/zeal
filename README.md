@@ -188,7 +188,7 @@ dao->jdbc.properties
 ```
 jdbc.url=jdbc:mysql://10.124.128.176:31000/egroup?useUnicode=true&characterEncoding=utf8
 jdbc.username=egroup
-jdbc.password=Abcd1234
+jdbc.password=*****
 ```
 
 ### 各模块的依赖关系
@@ -236,7 +236,7 @@ List<Product> selectAll(@Param("pageNum") int pageNum,
 
 ## 开发部署
 ```
-deployer/De@2016er
+deployer/*****
 SSH端口8022
 
 10.124.134.161
