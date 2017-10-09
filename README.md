@@ -196,7 +196,7 @@ jdbc.password=*****
 ```
 
 ### 各模块的依赖关系
-![ZEAL-FRAMEWORK](http://oxjso5gri.bkt.clouddn.com/PROJECT.png
+![ZEAL-FRAMEWORK](http://oxjso5gri.bkt.clouddn.com/PROJECT.png)
 
 ## EDAS-HSF
 ```
