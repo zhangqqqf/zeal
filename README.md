@@ -82,25 +82,25 @@ dependencies
 ## ZEAL-MSF
 ```
 msframework
-├── msf -datasource //数据源处理包
+├── msf -datasource    //数据源处理包
 ├── msf -cache         //缓存处理包
-├── msf -constant     //常量包
-├── msf -common     //通用包
-|    ├── model 	//通用模型
+├── msf -constant      //常量包
+├── msf -common        //通用包
+|    ├── model 	       //通用模型
 ├── msf -kit             //工具包
 |    ├── http		     //http
 |    ├── mail		     //邮件处理
-|    ├── shortmessage        //短信处理
+|    ├── shortmessage    //短信处理
 |    ├── office		     //excel word处理
-|    ├── io		     //io相关
-|    ├── json   	                 //json处理
-|    ├── thread                   //线程处理
+|    ├── io		         //io相关
+|    ├── json   	     //json处理
+|    ├── thread          //线程处理
 |    ├── text		     //文本处理
 |    ├── date		     //日期时间
 ├── msf -security
 |    ├── oauth		     //认证
-|    ├── captcha                 //验证码
-|    ├── encryption             //加解密
+|    ├── captcha         //验证码
+|    ├── encryption      //加解密
 ├── msf -server
 |    ├── upload		     //上传
 |    ├── exception	     //异常处理
