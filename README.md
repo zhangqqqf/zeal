@@ -51,6 +51,11 @@ dependencies
 
 
 ## GIT
+```
+https://git.coding.net/zh_xin/msframework.git
+https://git.coding.net/zh_xin/Product.git
+https://git.coding.net/zh_xin/User.git
+```
 
 ## 开发工具
 1. 基础环境
